@@ -1,0 +1,52 @@
+.bg{
+    background-color: rgb(17, 5, 90);
+    overflow: hidden;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    position: relative;
+
+}
+.headi{
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 37px;
+    margin-bottom: 1.75rem;
+    text-align: left;
+    color: white;
+
+}
+.tagline{
+    text-align: left;
+    font-size: 20px;
+    color: orange;
+}
+.m{
+    margin-left: 87px;
+    margin-top: 10px;
+}
+
+
+.bg2{
+    padding-top: 3.5rem;
+    padding-bottom: 4rem;
+    min-height: 200px;
+    background: #f6f9fc;
+    position: relative;
+}
+.l1{
+    margin-left: 30px;
+    text-align: justify;
+    color:#6b6e72;
+}
+.list{
+    
+    text-align: left;
+    text-decoration: none;   
+    list-style-type: none;
+}
+.lp{
+    text-decoration: none;
+    padding-top: 20px;
+    color:  grey;
+}

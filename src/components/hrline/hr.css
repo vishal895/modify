@@ -1,0 +1,32 @@
+.hr{
+    background-color: #fff;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.head{
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 20px;
+    margin-bottom: 1.75rem;
+    text-align: center;
+    color: #1282d4;
+
+}
+.para{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3.75rem;
+    max-width: 800px;
+    color: #32325d;
+    text-align: center!important;
+    font-size: 15px;
+}
+.bot{
+    
+    border-bottom: 1px solid;
+    
+}
+.bord{
+    border-right: 1px solid;
+}

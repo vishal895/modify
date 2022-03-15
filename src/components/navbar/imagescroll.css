@@ -1,0 +1,18 @@
+
+.head{
+
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    text-align: center;
+    color: grey;
+    
+}
+.slider{
+    border-bottom: 2px solid gray;
+    margin-bottom: 50px;
+}
+.h{
+    margin-bottom: 25px;
+}

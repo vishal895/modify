@@ -1,0 +1,37 @@
+.g3{
+    background-color: rgba(253,132,18,0.1);
+    color: #0e2843;
+
+}
+.lo{
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding-top: 85px;
+    padding-bottom:85px ;
+}
+.h4{
+    font-size: 1.875rem;
+    font-weight: 600;
+    line-height: 1.33;
+    text-align: justify;
+
+}
+.p{
+    font-size: 1.125rem;
+    line-height: 1.44;
+    opacity: .8;
+    text-align: justify;
+}
+.li{
+    padding-bottom: 15px;
+    text-align: left;
+}
+.btp{
+    text-align: justify ;
+}
+.btn-outline-warning{
+    margin-left: 20px;
+}

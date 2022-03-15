@@ -1,0 +1,36 @@
+.car{
+    background-color: white;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid gray;
+}
+.hk{
+    position: relative;
+    top: -224px;
+    display: block;
+    width: 0;
+    height: 1px;
+    opacity: 0;
+
+}
+.hii{
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 1.375rem;
+    margin-bottom: 1.75rem;
+    text-align: center;
+    color: rgb(6, 6, 194);
+}
+.b{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+
+.btn-lg{
+    width: 320px;
+
+}
+
+

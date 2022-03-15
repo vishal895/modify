@@ -1,0 +1,24 @@
+.graphic{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #f7f9fc;
+}
+.heading{
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 1.375rem;
+    margin-bottom: 1.75rem;
+    text-align: center;
+    color: #1282d4;
+}
+.paragraph{
+    max-width: 740px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3.75rem;
+    text-align: center!important;
+    color: #32325d;
+    font-size: 14px;
+
+}
